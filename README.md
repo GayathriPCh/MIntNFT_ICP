@@ -1,7 +1,7 @@
 # MInt NFTs On ICP
 
 
-To run the frontend of this project, execute the following commands:
+To run the frontend of this Project, execute the following commands:
 
 ```bash
 cd frontend
